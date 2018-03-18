@@ -1,9 +1,9 @@
 ---
-name: 'CPS: Estilo de paso de continuaciones'
+name: Continuación, a continuación
 locale: es
 type: learning
 beta: false
-teacher_info: 
+teacher_info: ''
 language: javascript
 id_format: "%05d"
 order: []
