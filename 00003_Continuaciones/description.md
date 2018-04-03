@@ -1,0 +1,1 @@
+¡Momento! ¿Qué fue eso? Si bien puede verse un poco perturbador al principio, este código es totalmente equivalente al anterior: cuando se aplica la función succesor, calcula su siguiente, y se lo pasa al callback, que opera con el mismo normalmente.
