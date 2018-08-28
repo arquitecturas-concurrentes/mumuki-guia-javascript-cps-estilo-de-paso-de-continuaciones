@@ -1,6 +1,6 @@
 var x;
 
-succesor(100, (resultado) => {
+successor(100, (resultado) => {
   x = resultado;
 });
 
