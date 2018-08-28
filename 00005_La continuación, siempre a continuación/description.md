@@ -4,3 +4,9 @@ Es decir, cuando tenemos una función que toma una continuación y efectivamente
 
 El CPS es especial porque es fácil introducirlo, pero imposible salir de él, al menos no sin introducir bugs y potenciales problemas en el sistema.
 
+
+> Veamos un ejemplo: si ahora queremos implementar una función que incrementa el doble de un número, usando nuestro `successor` CPS, podríamos escribir el código que está en el editor. Pero no va a funcionar :sob:, ¡corregilo!
+
+
+
+
