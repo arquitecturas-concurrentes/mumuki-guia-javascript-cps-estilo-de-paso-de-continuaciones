@@ -1,3 +1,1 @@
-Y ahí vemos el problema: incrementarDoble debe retornar i1, ¡pero no puede hacerlo, porque no hay garantías de cuando se va a ejecutar la continuación, ni cuantas veces!
-
-Por ello, la única alternativa válida (sin basarse en los detalles de implementación de successor, claro), es convertir a incrementarDoble en CPS también:
+Pensá que una vez que entramos en CPS, no podemos salir de éste. Por eso, probá escribir `incrementarDoble` en estilo CPS :wink:
