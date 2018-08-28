@@ -1,6 +1,7 @@
-var i0 = 0;
-var i1;
-succesor(i0, function(resultado) {
-  i1 = resultado;
+var x;
+
+succesor(100, (resultado) => {
+  x = resultado;
 });
-//..resto...
+
+console.log(x);
