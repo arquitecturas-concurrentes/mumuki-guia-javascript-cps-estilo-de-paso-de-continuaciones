@@ -5,6 +5,6 @@ Empecemos de a poco y por algo muy simple: una _función_ que incrementa en una 
 > 
 > ```
 >var i0 = 0;
->var i1 = succesor(i0);
+>var i1 = successor(i0);
 >...etc...
 >``` 
