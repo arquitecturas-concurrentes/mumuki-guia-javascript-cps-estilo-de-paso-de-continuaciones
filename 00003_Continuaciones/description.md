@@ -4,7 +4,7 @@ Es decir, _funcionalmente_ hace lo mismo, pero en lugar de expresar el resultado
 
 ```javascript
 function successor(x, continuation) {
- continuation(x + 1);
+  continuation(x + 1);
 }
 ```
 
