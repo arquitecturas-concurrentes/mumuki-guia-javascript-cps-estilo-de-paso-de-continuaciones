@@ -1,4 +1,4 @@
-Aquí estamos capturando el resultado de successor a través de la continuación, asumiendo que el código se ejecutará inmediatamente y que estará disponible en la línea 6.
+Acá estamos capturando el resultado de `successor` a través de la continuación, guardándolo en una variable `x`, asumiendo que el código se ejecutará inmediatamente y que estará disponible cuando hagamos `console.log`.
 
 Pero si es realmente successor quien tiene control sobre cuándo y cómo se ejecuta la continuación, no podemos garantizar esto dado que no sabemos cuándo se va a ejecutar la continuación.
 
