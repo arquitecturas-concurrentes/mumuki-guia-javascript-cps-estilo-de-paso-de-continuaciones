@@ -15,5 +15,5 @@ function successor(x, callback) {
 > ム successor(30, (r) => r + 1)
 > ム successor(30, (r) => { console.log(r + 1) } )
 > ```
-
-¿Cuál de ellas anda y por qué?
+>
+> ¿Cuál de ellas anda y por qué?
