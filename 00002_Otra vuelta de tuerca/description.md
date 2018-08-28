@@ -8,4 +8,12 @@ function successor(x, callback) {
 
 > ¡Momento! ¿Cómo se usa ésto? ¿Te animás a descubrirlo? 
 > 
-> Probá `successor` en la consola para calcular y mostrar el resultado
+> Probá usar `successor` de estas formas:  
+>
+> ```javascript
+> ム successor(30)
+> ム successor(30, (r) => r + 1)
+> ム successor(30, (r) => { console.log(r + 1) } )
+> ```
+
+¿Cuál de ellas anda y por qué?
