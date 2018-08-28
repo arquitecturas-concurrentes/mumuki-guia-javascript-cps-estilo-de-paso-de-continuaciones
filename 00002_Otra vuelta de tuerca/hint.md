@@ -1,9 +1,7 @@
-Esta función se podría usar de la siguiente forma: 
+Probá usar la función de estas formas:  
 
 ```javascript
-var i0 = 0;
-successor(i0, (resultado) => {
- var i1 = resultado;
- //...etc...
-});
+ム successor(30)
+ム successor(30, (r) => r + 1)
+ム successor(30, (r) => { console.log(r + 1) } )
 ```
