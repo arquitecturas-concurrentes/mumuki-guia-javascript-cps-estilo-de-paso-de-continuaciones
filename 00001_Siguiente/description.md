@@ -1,4 +1,4 @@
-Empecemos de a poco y por algo muy simple: una _función_ que incrementa en una unidad a su argumento, la función `succesor`.
+Empecemos de a poco y por algo muy simple: una _función_ que incrementa en una unidad a su argumento, la función `successor`.
 
 
 > Implementá una función `successor` que se pueda utilizar así: 
