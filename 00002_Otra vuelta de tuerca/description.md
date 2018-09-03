@@ -6,7 +6,7 @@ function successor(x, callback) {
 }
 ```
 
-> ¡Momento! ¿Cómo se usa ésto? ¿Te animás a descubrirlo? 
+> ¡Momento! ¿Cómo se usa esto? ¿Te animás a descubrirlo? 
 > 
 > Probá usar `successor` de estas formas:  
 >
