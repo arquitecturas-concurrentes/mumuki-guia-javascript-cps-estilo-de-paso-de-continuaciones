@@ -1,1 +1,1 @@
-Pensá que una vez que entramos en CPS, no podemos salir de éste. Por eso, probá escribir `incrementarDoble` en estilo CPS :wink:
+Pensá que una vez que entramos en CPS, no podemos salir de este. Por eso, probá escribir `incrementarDoble` en estilo CPS :wink:
